@@ -10,7 +10,7 @@ Num = k*(Ti*s + 1 );
 Den = Ti*s^2 * (s + p);
 
 rlocus(Num/Den)
-rltool(Num/Den)
+%rltool(Num/Den)
 
 grid on
 
